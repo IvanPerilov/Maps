@@ -1,0 +1,14 @@
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.exe
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.deps.json
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.runtimeconfig.json
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.runtimeconfig.dev.json
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.dll
+F:\Cods C#\Maps\Maps\bin\Release\netcoreapp3.1\Maps.pdb
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.AssemblyInfoInputs.cache
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.AssemblyInfo.cs
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.csproj.CoreCompileInputs.cache
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.dll
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.pdb
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.genruntimeconfig.cache
+F:\Cods C#\Maps\Maps\obj\Release\netcoreapp3.1\Maps.csproj.AssemblyReference.cache
